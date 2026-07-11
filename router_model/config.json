@@ -1,0 +1,10 @@
+{
+  "architectures": [
+    "MultiTaskRouter"
+  ],
+  "base_model_name": "distilbert-base-uncased",
+  "dtype": "float32",
+  "model_type": "multitask_router",
+  "num_intents": 62,
+  "transformers_version": "4.57.6"
+}
